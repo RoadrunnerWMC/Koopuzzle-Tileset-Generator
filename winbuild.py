@@ -131,7 +131,7 @@ if upxFlag:
         print('>> Compression complete.')
     else:
         print('>> UPX not found, binaries can\'t be compressed.')
-        print('>> In order to build Reggie! with UPX, place the upx.exe file into '
+        print('>> In order to build Koopuzzle Tileset Generator with UPX, place the upx.exe file into '
               'a subdirectory named "upx".')
 else:
     print('>> No \'-upx\' flag specified, so UPX compression will not be attempted.')

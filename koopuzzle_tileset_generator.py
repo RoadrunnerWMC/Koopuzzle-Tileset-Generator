@@ -480,7 +480,7 @@ class MainWindow(QtWidgets.QMainWindow):
     def HandleAbout(self):
         """Shows the About dialog"""
         try: readme = open('readme.md', 'r').read()
-        except: readme = 'Koopuzzle Tileset Generator %s by RoadrunnerWMC\n(No readme.txt found!)\nLicensed under the GPL 3' % version
+        except: readme = 'Koopuzzle Tileset Generator %s by RoadrunnerWMC\n(No readme.md found!)\nLicensed under the GPL 3' % version
 
         txtedit = QtWidgets.QPlainTextEdit(readme)
         txtedit.setReadOnly(True)
