@@ -14,7 +14,7 @@ Koopuzzle Tileset Generator is a small program which can view and save RGB4A3 an
 
 ### Getting Started
 
-If you're on Windows and don't care about having the bleeding-edge latest features, you can use the official installer. This is by far the easiest setup method. The installer will take care of everything for you.
+If you're on Windows and don't care about having the bleeding-edge latest features, you can use the official Windows builds. This is by far the easiest setup method. Just download either a ZIP or 7Z file, unzip it and run the executable.
 
 If you are not on Windows or you want the very latest features, you'll need to run Koopuzzle Tileset Generator from source.
 
