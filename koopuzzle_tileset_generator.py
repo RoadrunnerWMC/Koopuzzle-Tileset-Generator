@@ -2,7 +2,7 @@
 # -*- coding: latin-1 -*-
 
 # Koopuzzle Tileset Generator - Edits Koopuzzle Tileset BINs
-# Version 1.3
+# Version 1.4
 # Copyright (C) 2013-2014 RoadrunnerWMC
 # Started 7/10/13
 
@@ -30,7 +30,7 @@
 ################################################################
 ################################################################
 
-version = '1.3'
+version = '1.4'
 
 
 

@@ -2,7 +2,7 @@
 # -*- coding: latin-1 -*-
 
 # Koopuzzle Tileset Generator - Edits Koopuzzle Tileset BINs
-# Version 1.3
+# Version 1.4
 # Copyright (C) 2013-2014 RoadrunnerWMC
 # Started 7/10/13
 
@@ -26,8 +26,8 @@
 # Builds Koopuzzle Tileset Generator to a Windows binary (*.exe)
 # Use the values below to configure the release:
 
-PackageName = 'ktg_1.3_win32'
-Version = '1.3' # This must be a valid float in string format
+PackageName = 'ktg_1.4_win32'
+Version = '1.4' # This must be a valid float in string format
 
 
 ################################################################
